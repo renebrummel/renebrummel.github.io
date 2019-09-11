@@ -33,7 +33,7 @@ var WarehouseShipment = function () {
         var _this2 = this;
 
         if (this.state.liked) {
-          return 'You liked this.';
+          return 'You liked!.';
         }
 
         return React.createElement(
