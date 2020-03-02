@@ -3,4 +3,5 @@
 
 * [Home](/)
 * [ForNAV for Business Central SaaS](/ForNAVForBCSaaS/)
+  * [Edit your first Report](/ForNAVForBCSaaS/EditYourFirstReport.md)
   * [Getting Started Guide](/ForNAVForBCSaaS/GettingStarted.md)
